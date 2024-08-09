@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning to specialize in Backend Development @boot.dev</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently working full time as a fullstack web developer at byFood Japan</p>
 
 ###
 
