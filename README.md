@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Tools I use and enjoy using</h2>
+<h2 align="center">Tools I use and enjoy using</h2>
 
 ###
 
