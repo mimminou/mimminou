@@ -87,7 +87,6 @@
 ###
 
 <div align="center">
-<p align="center"><img src="https://streak-stats.demolab.com?user=mimminou&theme=black-ice&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="mimminou" /></p>
   <img src="https://github-profile-trophy.vercel.app/?username=mimminou&theme=darkhub" height="150" alt="trophy graph"  />
 </div>
 
