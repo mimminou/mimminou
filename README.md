@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently working full time as a fullstack web developer at byFood Japan</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Looking for opportunities</p>
 
 ###
 
